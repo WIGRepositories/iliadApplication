@@ -252,6 +252,7 @@
     <Content Include="UI\email-compose-mail.html" />
     <Content Include="UI\email-inbox.html" />
     <Content Include="UI\email-view-mail.html" />
+    <Content Include="UI\Empty.html" />
     <Content Include="UI\extra-404.html" />
     <Content Include="UI\extra-500.html" />
     <Content Include="UI\extra-blank.html" />
