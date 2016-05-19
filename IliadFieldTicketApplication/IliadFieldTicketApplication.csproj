@@ -177,6 +177,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="UI\CreateFieldTicket.html" />
     <Content Include="UI\css\style-responsive.css" />
     <Content Include="UI\css\themes\style1\blue-dark.css" />
     <Content Include="UI\css\themes\style1\blue-grey.css" />
