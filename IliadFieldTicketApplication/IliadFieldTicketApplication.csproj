@@ -178,10 +178,13 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="UI\AccountsP&amp;L.html" />
+    <Content Include="UI\AdminEmailInbox.html" />
     <Content Include="UI\AdministrationAccount.html" />
     <Content Include="UI\AdministrationoModules.html" />
     <Content Include="UI\AdministrationRoles.html" />
     <Content Include="UI\AdministrationUsers.html" />
+    <Content Include="UI\AdminProfieCalendar.html" />
+    <Content Include="UI\AdminProfielPage.html" />
     <Content Include="UI\AdminstrationProfilesInformation.html" />
     <Content Include="UI\PeopleTraining.html" />
     <Content Include="UI\QuotesApprove.html" />
