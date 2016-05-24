@@ -196,7 +196,7 @@ $(function () {
 
         var $obj = $(this);
         var $me = $obj.parent().parent().find('ul.chat-box-body');
-        var $my_avt = 'https://s3.amazonaws.com/uifaces/faces/twitter/kolage/128.jpg';
+        //var $my_avt = 'images/user.jpg';
         var $your_avt = 'https://s3.amazonaws.com/uifaces/faces/twitter/alagoon/48.jpg';
         if (e.which == 13) {
             var $content = $obj.val();
@@ -212,7 +212,7 @@ $(function () {
                 $element += "<li>";
                 $element += "<p>";
                 $element += "<img class='avt' src='"+$my_avt+"'>";
-                $element += "<span class='user'>John Doe</span>";
+                $element += "<span class='user'>Admin</span>";
                 $element += "<span class='time'>" + h + ":" + m + "</span>";
                 $element += "</p>";
                 $element = $element + "<p>" + $content +  "</p>";

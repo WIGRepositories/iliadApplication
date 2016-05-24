@@ -95,7 +95,7 @@ $(function () {
                 
                 var element = ""; 
                 element += "<li class='in'>";
-                element += "<img class='avatar' src='https://s3.amazonaws.com/uifaces/faces/twitter/kolage/48.jpg'>";
+                element += "<img class='avatar' src='images/user.jpg'>";
                 element += "<div class='message'>";
                 element += "<span class='chat-arrow'></span>";
                 element += "<a class='chat-name' href='#'>Admin &nbsp;</a>";
@@ -135,7 +135,7 @@ $(function () {
             
             var element = ""; 
             element += "<li class='in'>";
-            element += "<img class='avatar' src='https://s3.amazonaws.com/uifaces/faces/twitter/kolage/48.jpg'>";
+            element += "<img class='avatar' src='images/user.jpg'>";
             element += "<div class='message'>";
             element += "<span class='chat-arrow'></span>";
             element += "<a class='chat-name' href='#'>Admin &nbsp;</a>";
